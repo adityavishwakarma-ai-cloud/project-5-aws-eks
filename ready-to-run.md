@@ -355,4 +355,3 @@ kubectl get svc
 
 4. **Access frontend** via LoadBalancer external IP.
 
----
